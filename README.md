@@ -1,4 +1,6 @@
-### Hello friend, i'm Diego, nice to meet you!
+### Olá! Sou o Diego 😄!
+
+  <img align="center" alt="Diego-HTML" height="160" width="700" src="https://media.licdn.com/dms/image/D4D16AQFgRqQ0hnt6pw/profile-displaybackgroundimage-shrink_350_1400/0/1715961517517?e=1722470400&v=beta&t=pcxaLG2atGUewEcwOvOCE5hk2FCsj53YTDaX34kUG48">
 
 - 🔭 Hoje trabalho como Analista de dados, utilizando PowerBI, Power Query e Excel. Pretendo me tornar um Especialista em Analise de Dados.
 - 👨‍💼  Atuo pela Magna Sistemas
