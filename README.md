@@ -65,16 +65,14 @@
 
 <p>
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=dieg0marqu3s&show_icons=true&locale=en"
+    src="https://github-stats-extended.vercel.app/api?username=dieg0marqu3s&amp;show_icons=true&amp;theme=github_dark"
     alt="Estatísticas do GitHub de Diego"
   />
 </p>
 
 <p>
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dieg0marqu3s&show_icons=true&locale=en&layout=compact"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=dieg0marqu3s&amp;layout=compact&amp;theme=github_dark"
     alt="Linguagens mais utilizadas nos repositórios de Diego"
   />
 </p>
