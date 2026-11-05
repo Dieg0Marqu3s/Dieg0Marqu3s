@@ -31,12 +31,32 @@ Minha abordagem combina visão de negócio e profundidade técnica. Mais do que 
 
 ### Hard Skills
 
+**Business Intelligence, automação e Microsoft 365**
+
 <p align="left">
-  <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" alt="Power BI" width="40" height="40" /></a>
+  <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40" /></a>
   &nbsp;
+  <a href="https://learn.microsoft.com/power-query/" title="Power Query"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" alt="Power Query" width="40" height="40" /></a>
+  &nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel"><img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" alt="Excel" width="40" height="40" /></a>
+  &nbsp;
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-automate" title="Power Automate"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate-Colored.svg" alt="Power Automate" width="40" height="40" /></a>
+  &nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-teams/" title="Microsoft Teams"><img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/teams.png" alt="Microsoft Teams" width="40" height="40" /></a>
+  &nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" title="SharePoint"><img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/sharepoint.png" alt="SharePoint" width="40" height="40" /></a>
+  &nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook" title="Outlook"><img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/outlook.png" alt="Outlook" width="40" height="40" /></a>
+</p>
+
+**Bancos de dados, programação e cloud**
+
+<p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" /></a>
   &nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>
+  &nbsp;
+  <a href="https://www.oracle.com/database/" title="Oracle Database"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle Database" width="40" height="40" /></a>
   &nbsp;
   <a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
   &nbsp;
@@ -44,26 +64,50 @@ Minha abordagem combina visão de negócio e profundidade técnica. Mais do que 
   &nbsp;
   <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /></a>
   &nbsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel"><img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" alt="Excel" width="40" height="40" /></a>
+  <a href="https://numpy.org/" title="NumPy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" /></a>
+  &nbsp;
+  <a href="https://jupyter.org/" title="Jupyter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" /></a>
+  &nbsp;
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" /></a>
   &nbsp;
   <a href="https://git-scm.com/" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
 </p>
 
-- **Business Intelligence:** Power BI, DAX, Power Query, Power BI Service, modelagem de dados, KPIs e data storytelling.
-- **Dados e integração:** SQL Server, PostgreSQL, Oracle, MySQL, SQL, Python, Pandas, APIs REST e pipelines de ETL.
-- **Automação e Microsoft 365:** Power Automate, Excel, SharePoint, Teams, gateways e processos agendados.
-- **IA aplicada:** ChatGPT, Claude, agentes personalizados e aplicações de copilotos e chatbots.
-- **Ferramentas e práticas:** AWS, Git, GitHub, levantamento de requisitos, regras de negócio e melhoria contínua.
+**Especialidades e ferramentas complementares**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DAX-Modelagem%20e%20medidas-2C3E50?style=flat-square" alt="DAX" />
+  <img src="https://img.shields.io/badge/ETL-Pipelines%20de%20dados-34495E?style=flat-square" alt="ETL" />
+  <img src="https://img.shields.io/badge/APIs-REST-526D82?style=flat-square" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/GitHub-Versionamento-4D4D4D?style=flat-square" alt="GitHub" />
+  <img src="https://img.shields.io/badge/IA-Agentes%20personalizados-5C5470?style=flat-square" alt="Agentes de IA" />
+</p>
+
+- **BI & Analytics:** Power BI, DAX, Power Query, Power BI Service, modelagem de dados, KPIs e data storytelling.
+- **Dados & integração:** SQL Server, PostgreSQL, Oracle, MySQL, Python, Pandas, NumPy, APIs REST e ETL.
+- **Automação & Microsoft 365:** Power Automate, Excel, SharePoint, Teams, Outlook, Gateway e agendamentos.
+- **Cloud & ferramentas:** AWS, Git, GitHub e Jupyter Notebook.
+- **Inteligência Artificial:** uso de ChatGPT, Claude e agentes personalizados em fluxos de Analytics; estudos em chatbots e copilotos.
 
 ### Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=dieg0marqu3s&amp;show_icons=true&amp;theme=github_dark" alt="Estatísticas do GitHub de Diego" />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Dieg0Marqu3s&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="Visão geral das estatísticas do GitHub" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Dieg0Marqu3s&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Linguagens mais presentes nos repositórios públicos" height="165" />
 </p>
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dieg0marqu3s&amp;layout=compact&amp;theme=github_dark" alt="Linguagens mais utilizadas nos repositórios de Diego" />
+### Contribuições e atividade
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dieg0Marqu3s&amp;theme=github-dark-blue&amp;hide_border=true" alt="Sequência de contribuições públicas no GitHub" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dieg0Marqu3s&amp;theme=github-compact&amp;hide_border=true" alt="Gráfico da atividade pública de contribuições no GitHub" />
+</p>
+
+<sub>As métricas acima são geradas por serviços externos a partir da atividade pública no GitHub. Elas podem não refletir contribuições em projetos privados.</sub>
+
 
 ---
 
